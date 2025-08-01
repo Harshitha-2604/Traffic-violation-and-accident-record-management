@@ -77,7 +77,7 @@ class ViolationSearchFrame:
         self.vio_table.heading('9',text='House No')
         self.vio_table.heading('10',text='Violation ID')
         self.vio_table.heading('11',text='Violation Date')
-        self.vio_table.heading('12',text='Loaction')
+        self.vio_table.heading('12',text='Location')
         self.vio_table.heading('13',text='Violation Type')
         self.vio_table.heading('14',text='Fine amount')
         self.vio_table.heading('15',text='Vehicle No')
